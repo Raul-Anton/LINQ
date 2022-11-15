@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Amdaris\\LINQ\\amdLINQ\\amdLINQ\\amdLINQ.csproj",
+      "projectUniqueName": "E:\\Amdaris\\LINQ\\LINQ\\amdLINQ\\amdLINQ\\amdLINQ.csproj",
       "projectName": "amdLINQ",
-      "projectPath": "E:\\Amdaris\\LINQ\\amdLINQ\\amdLINQ\\amdLINQ.csproj",
+      "projectPath": "E:\\Amdaris\\LINQ\\LINQ\\amdLINQ\\amdLINQ\\amdLINQ.csproj",
       "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
-      "outputPath": "E:\\Amdaris\\LINQ\\amdLINQ\\amdLINQ\\obj\\",
+      "outputPath": "E:\\Amdaris\\LINQ\\LINQ\\amdLINQ\\amdLINQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config",

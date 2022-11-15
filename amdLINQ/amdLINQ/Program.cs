@@ -54,9 +54,6 @@ IList<Security> securityList = new List<Security>()
     new Security {CarSecurityCode = 99, SecurityCodeName="Okeymage"}
 };
 
-Cars car = carList.First(); // element operator
-Security security = securityList.First(); // element operator
-
 var innerJoin = carList.Join(
     securityList,
     car => car.CarSecurityCode,
@@ -67,9 +64,9 @@ var innerJoin = carList.Join(
         SecurityCodeName = security.SecurityCodeName
     });
 
-foreach (var v in innerJoin.ToList())
+foreach (var joinElement in innerJoin.ToList())
 {
-    Console.WriteLine(v);
+    Console.WriteLine(joinElement);
 }
 
 
@@ -137,9 +134,9 @@ var containsStudent = (from s in concatStudents select s.Name).Contains(name);
 
 Console.WriteLine();
 if (containsStudent)
-    Console.WriteLine("The list of students list contains the name {0}", name);
+    Console.WriteLine("The list of students contains the name {0}", name);
 else
-    Console.WriteLine("The list of students list doesn't contain the name {0}",name);
+    Console.WriteLine("The list of students doesn't contain the name {0}",name);
 
 
 // LiNQ generation methods
