@@ -1,0 +1,15 @@
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\bin\Debug\net6.0\amdLINQ.exe
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\bin\Debug\net6.0\amdLINQ.deps.json
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\bin\Debug\net6.0\amdLINQ.runtimeconfig.json
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\bin\Debug\net6.0\amdLINQ.dll
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\bin\Debug\net6.0\amdLINQ.pdb
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.csproj.AssemblyReference.cache
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.AssemblyInfoInputs.cache
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.AssemblyInfo.cs
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.csproj.CoreCompileInputs.cache
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.dll
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\refint\amdLINQ.dll
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.pdb
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\amdLINQ.genruntimeconfig.cache
+E:\Amdaris\LINQ\amdLINQ\amdLINQ\obj\Debug\net6.0\ref\amdLINQ.dll
